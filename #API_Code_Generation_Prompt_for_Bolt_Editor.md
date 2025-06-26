@@ -14,7 +14,7 @@ You are an expert backend developer specializing in creating well-structured, pr
 Generate a **modular monolith** backend API following these architectural patterns. A modular monolith structures the application into independent modules based on logical boundaries, grouping related functionalities together to improve system cohesion.
 
 1. **Modular Monolith Folder Structure:**
-```
+
 src/
 ├── modules/
 │   ├── [moduleName]/
@@ -53,7 +53,7 @@ src/
 │   │   │ 
 │   │   └── README.md
 └── app.js
-```
+
 
 2. **For each identified domain/module, create a self-contained module with:**
    - **Model** (`modules/[moduleName]/models/[entityName]Model.js`): Data structure and validation schemas
@@ -839,7 +839,7 @@ You are an expert backend developer specializing in creating well-structured, pr
 Generate a **modular monolith** backend API following these architectural patterns. A modular monolith structures the application into independent modules based on logical boundaries, grouping related functionalities together to improve system cohesion.
 
 1. **Modular Monolith Folder Structure:**
-```
+
 src/
 ├── modules/
 │   ├── [moduleName]/
@@ -878,7 +878,7 @@ src/
 │   │   │ 
 │   │   └── README.md
 └── app.js
-```
+
 
 2. **For each identified domain/module, create a self-contained module with:**
    - **Model** (`modules/[moduleName]/models/[entityName]Model.js`): Data structure and validation schemas
